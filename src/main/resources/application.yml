@@ -41,4 +41,4 @@ spring:
 
 logging:
   file:
-    name: D:/logs/order-management-service.log
+    name: E:/logs/order-management-service.log
