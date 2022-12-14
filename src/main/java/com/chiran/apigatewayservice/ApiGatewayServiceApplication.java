@@ -11,7 +11,6 @@ import java.beans.Customizer;
 
 @SpringBootApplication
 public class ApiGatewayServiceApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(ApiGatewayServiceApplication.class, args);
 	}
